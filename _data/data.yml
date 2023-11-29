@@ -56,12 +56,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Soy estudiante de Lic.Ciencias Informatica énfasis en Análisis de sistema y programación.
+      Estos ultimos años me dedique a estudiar la sintaxis de algunos lenguajes de programación,
+      para tener un conocimiento general de la sintaxis de leguajes de programacion.
+      Tengo experiecia trabajando en empresas de manufractura y produccion en los cuales me ayudaron
+      para desarrollarme como profecional.
+      
 education:
     title: Education
     info:
@@ -76,9 +76,13 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: PROGRAMACION 
+      - degree: Lenguajes de programación.  
         university: CISCO
         time: 2020 - 2023
+        details: |
+        - degree: Lenguajes de programación.
+        university: SNPP
+        time: 2019 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -91,9 +95,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Auxiliar de facturación
+        time: 2023 - Present
+        company: Vilux. S.A.
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
