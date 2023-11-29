@@ -119,27 +119,21 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: Lic. Ciencias Informatica
           start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
+          end: Cursando
+          organization: FP-UNA
+   #       credentialid: 111-222
+          credentialurl: https://www.pol.una.py/carreras/lcik
           credentialname: Google
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+            Especialista en la gestión y en la programación de sistemas informáticos.
+            Capacitado para la solución de problemas del mundo real por medio de la construcción
+            de soluciones computacionales y de su implementación.
+            Tiene condiciones de asumir un papel de agente transformador, siendo capaz de generar cambios
+            a través de la incorporación de nuevas tecnologías para entregar soluciones eficientes y económicas
+            a las necesidades de las personas, empresas e instituciones sobre el uso seguro y racional
+            de la información y los sistemas.
         - name: Git learning
           start: 2019
           end:
