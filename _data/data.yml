@@ -17,7 +17,7 @@ sidebar:
     phone: 0971 221 220
     timezone: San Lorenzo - Paraguay
     citizenship:
-    website: assets/CV_ESQUIVEL_CRISTIAN.pdf #do not add http://
+    website: assets/archivos/CV_ESQUIVEL_CRISTIAN.pdf #do not add http://
     linkedin: cristian-esquivel-29b0841b7
     xing: cristgod
     github: Cristgod
@@ -76,8 +76,8 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
+      - degree: PROGRAMACION 
+        university: CISCO
         time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
