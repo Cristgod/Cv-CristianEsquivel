@@ -69,13 +69,10 @@ education:
         university: Universidad Nacional de Asunciòn - Facultad Politecnica
         time: Acual
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          LICENCIATURA EN CIENCIAS INFORMATICAS ENFASIS EN POGRAMACIÓN Y ANALISIS DE SISTEMAS.
+            - ANALISIS DE SISTEMAS.
+            - PROGRAMACION
+            link: https://www.pol.una.py/carreras/lcik/
       - degree: Lenguajes de programación.  
         university: CISCO
         time: 2020 - 2023
@@ -83,7 +80,7 @@ education:
       - degree: Lenguajes de programación.
         university: SNPP
         time: 2019 - 2023
-        details: |
+        details: 
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
