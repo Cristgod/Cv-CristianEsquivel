@@ -68,11 +68,8 @@ education:
       - degree: Estudent Computer Science
         university: Universidad Nacional de Asunciòn - Facultad Politecnica
         time: Acual
-        details: 
-          LICENCIATURA EN CIENCIAS INFORMATICAS.
-            - ANALISIS DE SISTEMAS.
-            - PROGRAMACION
-            link: https://www.pol.una.py/carreras/lcik/
+        details: Lic. Ciencias Informaícas.
+        link: https://www.pol.una.py/carreras/lcik/
       - degree: Lenguajes de programación.  
         university: CISCO
         time: 2020 - 2023
