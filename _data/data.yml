@@ -68,7 +68,7 @@ education:
       - degree: Estudent Computer Science
         university: Universidad Nacional de Asunciòn - Facultad Politecnica
         details: Lic. Ciencias Informaícas.
-        website: https://www.pol.una.py/carreras/lcik/
+        website: www.pol.una.py/carreras/lcik/
         time: Tercer semestre - 2023
       - degree: Lenguajes de programación.  
         university: CISCO
@@ -122,10 +122,10 @@ certifications:
         - name: Lic. Ciencias Informatica
           start: 2020
           end: Cursando
-          organization: FP-UNA
+          organization: Facultad Politecnica
    #       credentialid: 111-222
-          credentialurl: https://www.pol.una.py/carreras/lcik
-          credentialname: Google
+          credentialurl: www.pol.una.py/carreras/lcik
+          credentialname: FP-UNA
           details: |
             Especialista en la gestión y en la programación de sistemas informáticos.
             Capacitado para la solución de problemas del mundo real por medio de la construcción
@@ -134,11 +134,11 @@ certifications:
             a través de la incorporación de nuevas tecnologías para entregar soluciones eficientes y económicas
             a las necesidades de las personas, empresas e instituciones sobre el uso seguro y racional
             de la información y los sistemas.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
+        - name: Cisco
+          start: 2022
+          end: 2023
+          organization: Lenguajes de programación
+    #      credentialid: 111-222
           credentialurl: www.github.com
           credentialname: Github
           details: |
