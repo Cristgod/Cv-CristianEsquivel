@@ -139,32 +139,33 @@ certifications:
           end: 2023
           organization: Lenguajes de programación
     #      credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          credentialurl: www.skillsforall.com/
+          credentialname: Programming language
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+            O Cursos preparatorios que le permita diseñar, escribir, depurar y ejecutar programas codificados 
+            en el lenguaje como C++, Python y JavaScript y comprender los conceptos básicos del software.
+            tecnología de desarrollo.
+            Los curso se centra en los conceptos básicos del lenguaje, incluidos los conceptos básicos de la sintaxis
+            y la semántica de los lenguajes, las mejores prácticas de programación, herramientas, recursos y conceptos 
+            de codificación como variables, tipos de datos, conversión de tipos, operadores, interacción del usuario, 
+            flujo de control, funciones, errores, excepciones, depuración y resolución de problemas.
+            El curso lo preparará para trabajos y carreras relacionados con software y desarrollo web ampliamente comprendidos, 
+            lo que incluye no solo la creación del código en sí como desarrollador junior, sino también el diseño web,
+            el desarrollo front-end y las pruebas de aplicaciones.
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
 
 
 #oss:
